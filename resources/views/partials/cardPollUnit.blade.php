@@ -136,9 +136,9 @@
             </div>
             <div class="text-center mb-5">
                 <div class="d-flex justify-content-center mb-3 ">
-                    <img src="{{ asset('img/LOGO-RADAR-150x111.png') }}" alt="logo radar bogor" style="width: 100px;">
+                    <img src="{{ asset('img/rcFavicon.png') }}" alt="logo radar cianjur" style="width: 100px;">
                   </div>
-                  <h4>Polling Radar Bogor</h4>
+                  <h4>Polling Radar Cianjur</h4>
                   <p>Login Options</p>
             </div>
             <div class="text-center">

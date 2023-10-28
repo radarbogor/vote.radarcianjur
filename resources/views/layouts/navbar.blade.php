@@ -7,11 +7,11 @@
     {{-- Logo --}}
     @if (Auth::guard('admin')->user())
     <a class="navbar-brand navlogo" href="{{ route('admin.home') }}">
-      <img src="{{ asset('img/25-vote-nav.png') }}" alt="logo radar bogor">
+      <img src="{{ asset('img/radarcianjur-logo-white.png') }}" alt="logo radar bogor">
     </a>
     @else
     <a class="navbar-brand navlogo" href="{{ '/' }}">
-      <img src="{{ asset('img/25-vote-nav.png') }}" alt="logo radar bogor">
+      <img src="{{ asset('img/radarcianjur-logo-white.png') }}" alt="logo radar bogor">
     </a>
     @endif
     {{-- Burger Menu --}}

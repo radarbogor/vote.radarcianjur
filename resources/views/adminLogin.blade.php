@@ -11,7 +11,7 @@ background-repeat: no-repeat;
 
   <div class="mx-auto">
     <div class="mb-3 d-flex justify-content-center">
-        <img src="{{ asset('img/LOGO-RADAR-150x111.png')}}" alt="" class="img-fluid rounded">
+        <img src="{{ asset('img/rcFavicon.png')}}" alt="" class="img-fluid rounded" style="width: 100px">
     </div>
     @include('partials/Login.loginForm')
   </div>
