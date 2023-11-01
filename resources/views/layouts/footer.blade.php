@@ -35,11 +35,6 @@
               <i class="fab fa-facebook me-3"></i>Facebook
             </a>
           </p>
-          <p>
-            <a class="text-decoration-none text-light" href="https://twitter.com/radarbogorID" target="_blank">
-              <i class="fab fa-twitter me-3"></i>Twitter
-            </a>
-          </p>
         </div>
 
         <div class="col-md-3">
